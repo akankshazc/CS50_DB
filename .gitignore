@@ -1,2 +1,8 @@
 /venv
-/Cyberchase/cyberchase.db
+/pset0/cyberchase/cyberchase.db
+/pset0/players/players.db
+/pset0/views/views.db
+/pset0/normals/normals.db
+/pset1/packages/packages.db
+/pset1/dese/dese.db
+/pset1/moneyball/moneyball.db
